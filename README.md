@@ -15,6 +15,7 @@ My name is Zukhra. This is my portfolio project. The page was built with HTML, s
 6. Implementing the feature that will allow to alternate the display of one of two images by clicking the displayed image.
 7. Removing BootstrapCSS settings and customizing the HTML ans CSS files to meet the requirements. One of the main goal of this project is to learn how to build the web page without using labraries.
 8. Adding the current date on the page. 
+9. Published the project to https://zu18.github.io/Hobby-interests/ 
 
 
 

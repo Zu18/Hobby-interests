@@ -7,13 +7,13 @@ My name is Zukhra. This is my portfolio project. The page was built with HTML, s
 
 
 ## Step-by-step process:
-1. Sketching a web page on the paper. I think that every projects should start with plan. 
+1. Sketching a web page on the paper. I think that every projects should start with a plan. 
 2. Selecting the desired images by using Lorem Picsum. 
 3. Building a template of the page for clarity and simplicity using Bootstrap CSS.
-4. Add script to alternate the display of one of two images by clicking the displayed image. Function was implomented for images number 1 and number 2.
+4. Add script to alternate the display of one of two images by clicking the displayed image. Function was implemented for images number 1 and number 2.
 5. Generate one original image (number 3) by using AI Image generator. I always wanted to use this tool.
-6. Implimenting the feature that will allow to alternate the display of one of two images by clicking the displayed image.
-7. Removing BootstrapCSS settings and customizing the HTML ans CSS files to meet the requirements. One of the main goal of this project is to learn how to build the web page without using the special labraries.
+6. Implementing the feature that will allow to alternate the display of one of two images by clicking the displayed image.
+7. Removing BootstrapCSS settings and customizing the HTML ans CSS files to meet the requirements. One of the main goal of this project is to learn how to build the web page without using labraries.
 8. Adding the current date on the page. 
 
 
